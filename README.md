@@ -78,3 +78,41 @@ Resources documented are linked to free public tools. The tools themselves are s
 ## Contributing
 
 If you have suggestions for additional free, transparent US-focused calculators with .gov data sources, please open an issue or PR.
+
+## Related Resources
+
+### Tax & Finance
+- [tax-calculator-resources](https://github.com/brazoramonk-arch/tax-calculator-resources) - US tax calculator methodology + sources
+- [irs-tax-bracket-data](https://github.com/brazoramonk-arch/irs-tax-bracket-data) - Federal IRS tax bracket reference
+- [state-income-tax-rates-2026](https://github.com/brazoramonk-arch/state-income-tax-rates-2026) - State income tax aggregator
+
+### Mortgage
+- [mortgage-calculator-resources](https://github.com/brazoramonk-arch/mortgage-calculator-resources) - Mortgage calc methodology
+- [freddie-mac-pmms-mortgage-data](https://github.com/brazoramonk-arch/freddie-mac-pmms-mortgage-data) - PMMS rate reference
+- [fha-va-usda-loan-eligibility](https://github.com/brazoramonk-arch/fha-va-usda-loan-eligibility) - Loan eligibility checklist
+
+### Construction
+- [construction-cost-calculators](https://github.com/brazoramonk-arch/construction-cost-calculators) - Cost calc methodology
+- [bls-construction-wages-by-metro](https://github.com/brazoramonk-arch/bls-construction-wages-by-metro) - BLS wages reference
+- [construction-permit-fees-by-county](https://github.com/brazoramonk-arch/construction-permit-fees-by-county) - Permit fees lookup
+
+### Nutrition
+- [nutrition-calculator-references](https://github.com/brazoramonk-arch/nutrition-calculator-references) - Nutrition methodology
+- [tdee-bmr-calculator-formulas](https://github.com/brazoramonk-arch/tdee-bmr-calculator-formulas) - TDEE/BMR formulas
+- [compendium-of-physical-activities](https://github.com/brazoramonk-arch/compendium-of-physical-activities) - MET values
+
+### Education
+- [college-cost-calculator-tools](https://github.com/brazoramonk-arch/college-cost-calculator-tools) - College planning tools
+- [ipeds-college-data-tools](https://github.com/brazoramonk-arch/ipeds-college-data-tools) - IPEDS data tools
+- [fafsa-estimator-tools](https://github.com/brazoramonk-arch/fafsa-estimator-tools) - FAFSA estimator
+
+### Energy
+- [solar-energy-calculator-tools](https://github.com/brazoramonk-arch/solar-energy-calculator-tools) - Solar calculator references
+- [nrel-pvwatts-solar-data](https://github.com/brazoramonk-arch/nrel-pvwatts-solar-data) - NREL PVWatts reference
+- [ev-charging-cost-calculators](https://github.com/brazoramonk-arch/ev-charging-cost-calculators) - EV charging cost
+
+### Developer Tools
+- [developer-utilities-online](https://github.com/brazoramonk-arch/developer-utilities-online) - Dev tools resources
+- [json-formatter-online-tools](https://github.com/brazoramonk-arch/json-formatter-online-tools) - JSON formatter reference
+- [regex-tester-redos-detection](https://github.com/brazoramonk-arch/regex-tester-redos-detection) - Regex with ReDoS detection
+
