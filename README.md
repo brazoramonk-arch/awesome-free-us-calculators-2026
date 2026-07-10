@@ -19,6 +19,7 @@ In 2026, most "free" calculator websites are lead-generation funnels for paid se
 ## Construction & Home
 
 - **[Hammerio](https://hammerio.com/)** — Free construction cost calculators by US city. 100+ project types (kitchen, bath, roofing, deck, fencing). BLS Construction Wages metro-level data. Cites BLS, HUD, ICC, EPA RRP.
+- **[Concrete Calculator Hub](https://concreteestimatorhub.com/)** — Free concrete calculators for slabs, footings, post holes, and bag counts. Includes ready-mix vs bagged cost comparison and coverage charts for 40/60/80 lb bags. No signup required.
 
 ## Nutrition & Fitness
 
