@@ -20,6 +20,8 @@ In 2026, most "free" calculator websites are lead-generation funnels for paid se
 
 - **[Hammerio](https://hammerio.com/)** — Free construction cost calculators by US city. 100+ project types (kitchen, bath, roofing, deck, fencing). BLS Construction Wages metro-level data. Cites BLS, HUD, ICC, EPA RRP.
 
+- **[Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator)** — Free US roof replacement planning calculator using roof size, material, location, and tear-off inputs, with methodology and estimate limitations published on the site.
+
 ## Nutrition & Fitness
 
 - **[Calorique](https://calorique.io/)** — Free nutrition calculators using Mifflin-St Jeor (BMR), Compendium of Physical Activities (calorie burn), Katch-McArdle (body composition). ACSM-aligned methodology. Cites USDA, NIH, CDC.
